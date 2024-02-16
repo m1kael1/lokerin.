@@ -54,9 +54,6 @@ https://git-scm.com/downloads
 
 ## Extension VS Code (optional)
 
-<p>Berikut adalah extension vscode untuk memudahkan proses development
-</p>
-
 - [Auto Close Tag - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
